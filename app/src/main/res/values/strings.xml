@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="not_able_to_connect_to_server">Not able to connect with server</string>
+    <string name="no_articles">No Articles…</string>
+</resources>

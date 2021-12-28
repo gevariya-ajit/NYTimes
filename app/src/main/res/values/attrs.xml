@@ -1,0 +1,15 @@
+<resources>
+
+    <declare-styleable name="DotProgress">
+        <attr name="dot_radius" format="integer" />
+        <attr name="bounce_dot_radius" format="integer" />
+        <attr name="dot_position" format="integer" />
+        <attr name="dot_amount" format="integer" />
+        <attr name="dot_active_color" format="color" />
+        <attr name="dot_color" format="color" />
+        <attr name="dot_margin" format="integer" />
+        <attr name="dot_animation_duration" format="integer" />
+    </declare-styleable>
+
+
+</resources>
